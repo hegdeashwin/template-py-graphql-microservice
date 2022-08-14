@@ -1,8 +1,8 @@
-# Template Python REST Microservice
+# Template Python GraphQL Microservice
 
-[![Pylint](https://github.com/beaver-ai/template-py-rest-microservice/actions/workflows/pylint.yml/badge.svg)](https://github.com/beaver-ai/template-py-rest-microservice/actions/workflows/pylint.yml) [![CodeQL](https://github.com/beaver-ai/template-py-rest-microservice/actions/workflows/codeql.yml/badge.svg)](https://github.com/beaver-ai/template-py-rest-microservice/actions/workflows/codeql.yml) [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/beaver-ai/template-py-rest-microservice/blob/main/LICENSE)
+[![Pylint](https://github.com/beaver-ai/template-py-graphql-microservice/actions/workflows/pylint.yml/badge.svg)](https://github.com/beaver-ai/template-py-graphql-microservice/actions/workflows/pylint.yml) [![CodeQL](https://github.com/beaver-ai/template-py-graphql-microservice/actions/workflows/codeql.yml/badge.svg)](https://github.com/beaver-ai/template-py-graphql-microservice/actions/workflows/codeql.yml) [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/beaver-ai/template-py-graphql-microservice/blob/main/LICENSE)
 
-The repository is a `project template` for REST microservice built using FastAPI (Python). The latest version supports Python 3.8 and above.
+The repository is a `project template` for GraphQL microservice built using FastAPI (Python). The latest version supports Python 3.8 and above.
 
 ## Prerequisite
 
@@ -19,7 +19,7 @@ Optional
 
 List of features that comes with default template
 
-- [x] Use [FastAPI](https://fastapi.tiangolo.com/) as base framework to build the `REST` microservice.
+- [x] Use [FastAPI](https://fastapi.tiangolo.com/) as base framework to build the `GraphQL` microservice.
 - [x] Use [Poetry](https://python-poetry.org/docs/) as a tool for dependency management and packaging in Python.
 - [x] Predefined `project scaffolding` like files and directories, event handlings, routers, middlewares etc.
 - [x] Comes with `default configurations` for hostname, port, environment etc. Each of these configuration can be `customize` as per microservice needs.

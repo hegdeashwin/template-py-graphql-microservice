@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "template-py-rest-microservice"
+name = "template-py-graphql-microservice"
 version = "1.0.0"
 description = "This repository acts like a project template for all Python based microservice built using FastAPI."
 authors = ["Ashwin Hegde <ashwin.hegde3@gmail.com>"]
 maintainers = ["Ashwin Hegde <ashwin.hegde3@gmail.com>"]
 readme = "README.md"
-repository = "https://github.com/beaver-ai/template-py-rest-microservice"
+repository = "https://github.com/beaver-ai/template-py-graphql-microservice"
 documentation = "https://github.com/beaver-ai"
-keywords = ["microservice", "python", "REST"]
+keywords = ["microservice", "python", "GraphQL"]
 homepage = "https://github.com/beaver-ai"
 license = "MIT"
 
@@ -33,4 +33,4 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.urls]
-"Bug Tracker" = "https://github.com/beaver-ai/template-py-rest-microservice/issues"
+"Bug Tracker" = "https://github.com/beaver-ai/template-py-graphql-microservice/issues"

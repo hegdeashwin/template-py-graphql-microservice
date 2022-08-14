@@ -45,7 +45,7 @@
 
 **Release 7th Aug 2022 - v1.0.0**
 
-- [x] Use [FastAPI](https://fastapi.tiangolo.com/) as base framework to build the `REST` microservice.
+- [x] Use [FastAPI](https://fastapi.tiangolo.com/) as base framework to build the `GraphQL` microservice.
 - [x] Use [Poetry](https://python-poetry.org/docs/) as a tool for dependency management and packaging in Python.
 - [x] Predefined `project scaffolding` like files and directories, event handlings, routers, middlewares etc.
 - [x] Comes with `default configurations` for hostname, port, environment etc. Each of these configuration can be `customize` as per microservice needs.
